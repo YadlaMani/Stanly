@@ -10,7 +10,7 @@
 
 <h2>Project Screenshots:</h2>
 
-<img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Ffoyr.com%2Flearn%2Fwp-content%2Fuploads%2F2021%2F08%2Fdesign-your-dream-home.jpg&amp;tbnid=fTLREFAzp55ajM&amp;vet=12ahUKEwjvjfnSl8uEAxURfWwGHY-1B-MQMygBegQIARBq..i&amp;imgrefurl=https%3A%2F%2Ffoyr.com%2Flearn%2Fhow-to-design-your-dream-home%2F&amp;docid=mK_BzRyV2gSe8M&amp;w=1600&amp;h=900&amp;q=home&amp;ved=2ahUKEwjvjfnSl8uEAxURfWwGHY-1B-MQMygBegQIARBq" alt="project-screenshot" width="400" height="400/">
+
 
   
   
